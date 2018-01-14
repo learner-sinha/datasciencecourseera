@@ -1,0 +1,8 @@
+---
+title: "README"
+output: html_document
+---
+
+This is the readme document for week 4 assignmnet of getting and cleaning data course in coursera.
+
+this repository includes 3 files required for assignmnet ; run_analysis.R , README.md and codebook

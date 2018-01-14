@@ -1,0 +1,12 @@
+---
+title: "codeBook"
+output: html_document
+---
+
+this is the codebook to describe the variables used in the final tidy data set uploaded for this assignment
+
+x_test, y_test, x_train, y_train, training, testing, features, activity_labels -> extracted data from the original downloaded dataset
+
+merge_train, merge_test, final_table -> merged datasets for analysis
+final_tidy_table -> final tidy dataset for upload
+
